@@ -1,0 +1,15 @@
+.shout {
+    margin-top: 50px;
+}
+
+.shout h4 {
+    font-size: 40px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: center;
+}
+
+.shout p {
+    text-align: center;
+}

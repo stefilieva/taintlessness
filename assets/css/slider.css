@@ -1,0 +1,27 @@
+#content .container-fluid{
+    width: 950px;
+    margin: 0  auto auto;
+}
+
+#main-carousel {
+    margin-top: 45px;
+}
+
+.slider-info {
+   position: absolute;
+    margin-left: 110px;
+    bottom: 30px;
+}
+
+.slider-info h4 {
+    font-size: 30px;
+}
+
+.slider-info p {
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.slider-info .btn-default {
+    margin-top: 24px;
+}

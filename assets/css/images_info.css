@@ -1,0 +1,19 @@
+
+.images-info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.images-info p {
+    font-size: 13px;
+    margin-left: 10px;
+}
+
+.images-info img  {
+    margin: center;
+}
+
+.images-info b {
+	  font-weight: bold;
+
+}

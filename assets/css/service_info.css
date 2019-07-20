@@ -1,0 +1,17 @@
+.services-info {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.services-info h3 {
+     font-size: 18px;
+}
+
+.services-info p {
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.services-info b {
+    font-weight: bold;
+}

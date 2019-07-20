@@ -1,0 +1,61 @@
+ @import url('reset.css');
+ @import url('header.css');
+ @import url('https://fonts.googleapis.com/css?family=Josefin+Slab&display=swap');
+ @import url('top_navigation.css');
+ @import url('slider.css');
+ @import url('shout.css');
+ @import url('service_info.css');
+ @import url('images_info.css');
+ @import url('latest_work.css');
+ @import url('footer.css');
+ @import url('media-buttons.css');
+ /* @import url('bootstrap.css'); */
+
+body {
+    font-family: 'Josefin Slab', sans-serif;
+}
+
+header {
+    margin-top: 45px;
+}
+
+ .wrap .container-fluid {
+     max-width: 950px;
+     margin: 0 auto;
+ }
+
+ .col {
+     padding-left: 0px;
+     padding-right: 0px;
+ }
+   
+section div.row:not(.shout-row) {
+    border-bottom: 1px solid grey ;
+}
+
+.footer {
+	max-width: 950px;
+	margin: auto;
+}
+<style>
+/* Large - lg */
+@media only screen and (max-width: 950px) {
+	
+}
+
+/* MId - md*/
+@media only screen and (max-width: 640px) {
+
+}
+	
+/* Small - sm */
+@media only screen and (max-width: 340px) {
+
+}
+
+/* Extra Small - xs */
+@media only screen and (max-width: 262px) {
+
+}
+</style>
+

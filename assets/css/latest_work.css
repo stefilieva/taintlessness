@@ -1,0 +1,37 @@
+
+.latest-work {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.latest-work p {
+    font-size: 16px;
+    margin-left: 15px;
+
+}
+
+.latest-work b {
+    font-weight: bold;
+}
+
+.latest-work h3 {
+    font-size: 18px;
+    color: #558B2F;
+    margin-bottom: 23px;
+}
+.latest-work  ul li {
+	color: : #558B2F;
+	font-size: 18px;
+}
+
+.search {
+    width: 246px;
+    height: 37px;
+    border-radius: 13px;
+    border: 1px  #558B2F solid;
+    padding: 5px 5px 5px 25px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
